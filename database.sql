@@ -1,8 +1,8 @@
 -- Create database
-CREATE DATABASE user;
+CREATE DATABASE if0_42966883_user;
 
 -- Select database
-USE user;
+USE if0_42966883_user;
 
 -- Create users table
 CREATE TABLE users (
